@@ -1,0 +1,9 @@
+{
+  "env": {
+    "UUID": {
+      "description": "UUID",
+      "value": "69935707-45d4-4a89-90e4-6c986ceab98f"
+    }
+  },
+  "stack": "container"
+}
